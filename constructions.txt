@@ -1,0 +1,16 @@
+To setup ur react env as vite Toolkit 
+npm create vite@latest "project-name"
+npm create vite@latest .
+
+
+to install RTK Query (Redux ToolKit Query)
+npm i @reduxjs/toolkit react-redux 
+
+React routers
+npm i react-router
+
+to run the json server to render our JSON file
+json-server --watch ".\src\Data\database.json"
+
+to run react app (vite)
+npm run dev

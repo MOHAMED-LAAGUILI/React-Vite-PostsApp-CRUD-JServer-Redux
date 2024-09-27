@@ -1,0 +1,17 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post 1",
+            "body": "This is post 1",
+            "date":1696683386514
+        },
+        {
+            "id": 2,
+            "title": "Post 2",
+            "body": "This is post 2",
+            "date": 1696683386514
+            
+        }
+    ]
+}
